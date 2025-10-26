@@ -9,3 +9,7 @@ Hello! My name is Tugs Batbayar and I live in Mongolia.
 ### Want to learn:
 - Want to learn CSS
 - Want to learn JavaScript
+
+## Achievements
+- CodeX 2 olympiad - 1st place
+  - Reward: 100K tugrug
