@@ -2,7 +2,7 @@
 
 Welcome to my website **tugsbatbayar.github.io**.
 
-I am currently working on an anonymous music listening app. 
+My awards and certificates from competitions.
 
-
+- CodeX olympiad - 1st place
 
