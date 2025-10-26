@@ -1,9 +1,11 @@
 # tugsbatbayar.github.io
 
-Welcome to my website **tugsbatbayar.github.io**.
+Hello! My name is Tugs Batbayar and I live in Mongolia. 
 
-My awards and certificates.
+### Currently learning:
+- Currently learning Python
+- Currently learning HTML
 
-- CodeX olympiad - 1st place
-  - Reward: 100K tugrug
-
+### Want to learn:
+- Want to learn CSS
+- Want to learn JavaScript
